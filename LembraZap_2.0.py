@@ -26,7 +26,7 @@ else:
 os.chdir(diretorio_base)
 
 # --- CONFIGURAÇÃO OBRIGATÓRIA ---
-URL_PLANILHA_LOGIN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRoQVqO6x3VFW6Fl3mZWnLHqjzw2fe9m-V1wfP6vRVBcqjn9i25upT7NQRGSb89S_5WdAGTXqAY0VKq/pub?output=csv"
+URL_PLANILHA_LOGIN = "***"
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
