@@ -3,6 +3,11 @@
 
 O **LembraZap PRO** é uma ferramenta desktop desenvolvida em Python para otimizar o fluxo de comunicação de pequenos negócios e empreendedores. O projeto foca em escalabilidade, segurança e facilidade de uso.
 
+
+<img width="462" height="600" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/02fcb197-13ed-46dc-bf99-3a4cef08d4c0" />
+
+<img width="462" height="600" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/c7540511-9e36-4458-a8ce-63d3aa6b00d1" />
+
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
 * **Interface Gráfica:** `CustomTkinter` (Modern UI/UX)
